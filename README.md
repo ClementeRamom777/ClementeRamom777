@@ -2,7 +2,7 @@
 
 **Analista de Sistemas · Automação industrial e de processos com Python**
 
-Entrei na indústria gráfica como aprendiz na produção e subi degrau por degrau — acabamento, produção, orçamento — até chegar a Analista de Sistemas. **Cinco anos percorrendo a cadeia inteira antes de começar a programá-la.**
+Entrei na indústria gráfica como aprendiz na produção e subi degrau por degrau — acabamento, produção, orçamento — até chegar a Analista de Sistemas. 
 
 Essa trajetória define o software que escrevo: sei onde o processo trava porque já operei cada etapa dele. Automação boa não nasce de requisito escrito — nasce de quem viveu a dor. E essas dores se repetem em qualquer indústria.
 
