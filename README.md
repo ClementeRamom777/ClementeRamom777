@@ -16,10 +16,10 @@ Construindo um portfólio com uma tese: **cobrir o processo produtivo do orçame
 
 | Projeto | O que resolve | Status |
 |---|---|---|
-| **Painel de Produção Industrial** | Lê planilhas de produção sujas, trata inconsistências, grava em banco e alimenta um dashboard com indicadores de chão de fábrica | Em desenvolvimento |
+| **Painel de Produção Industrial** | Lê planilhas de produção sujas, trata inconsistências, grava em banco e alimenta um dashboard com indicadores de chão de fábrica | Em revisão |
 | **Motor de Orçamento de Produção** | Calcula custo e preço de uma ordem a partir da especificação técnica, com regras de negócio fora do código | Planejado |
 | **Validador Automático de Arquivos** | Vigia uma pasta, valida arquivos contra regras de produção e separa aprovados de reprovados com o motivo | Planejado |
-| **Verdão Ops** | Ferramenta de linha de comando que consulta dados do Brasileirão via API, com cache resiliente e proteção de credenciais | Em desenvolvimento |
+| **Verdão Ops** | Ferramenta de linha de comando que consulta dados do Brasileirão via API, com cache resiliente e proteção de credenciais | Finalizado |
 
 ---
 
